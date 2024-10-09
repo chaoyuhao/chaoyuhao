@@ -15,7 +15,7 @@ Hello there! I'm **chaoyuhao**, a junior Computer Science and Technology major a
 
 - **[Sudoku]()** : A project containing an interesting algorithm which is strongly recommended by Daoxu Chen (Designer of ProblemSolving course in NJU)
 - **[ICSPA2023]()** : Using software to simulate risc-v CPU and link it to abstract-machine and nan-os.
-- **[OS2024]()** : Operating abstract-machine on many threads.
+- **[OS2024]()** : Operating abstract-machine on multi threads.
 - **[SCA$^3$]()** : Using Actor-critic algorithm to rearrange the placement of chargers to enhence the robustness of the network.
 - **[OpenJiuxiang]()** : The CPU of team `我造CPU，真的假的？`, which has won the second prize in Loongson Competition 2024 final.  
 - **[Personal Projects](#)** - Showcase of my personal projects
