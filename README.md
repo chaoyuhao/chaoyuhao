@@ -1,6 +1,6 @@
 # 🌟 Chaoyuhao's GitHub Profile 🌟
 
-Hello there! I'm **chaoyuhao**, a junior Computer Science and Technology major at **Nanjing University**! 🎓 Passionate about software and systems, I'm actively exploring the open-source community. 🌐 Welcome to my GitHub profile, where you'll find some of my projects and learning notes.
+Hello there! I'm **chaoyuhao**, a junior Computer Science and Technology major at **Nanjing University**! 🎓 Passionate about computer vision, I'm actively exploring the open-source community. 🌐 Welcome to my GitHub profile, where you'll find some of my projects and learning notes.
 
 ## 📚 Education
 
