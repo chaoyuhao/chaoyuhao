@@ -1,6 +1,6 @@
 # 🌟 Chaoyuhao's GitHub Profile 🌟
 
-Hello there! I'm **chaoyuhao**, a junior Computer Science and Technology major at **Nanjing University**! 🎓 Passionate about computer vision, I'm actively exploring the open-source community. 🌐 Welcome to my GitHub profile, where you'll find some of my projects and learning notes.
+Hello there! I'm **chaoyuhao**, a senior Computer Science and Technology major at **Nanjing University**! 🎓 Passionate about multi-modal large language model & embodied AI, I'm actively exploring the open-source community. 🌐 Welcome to my GitHub profile, where you'll find some of my projects and learning notes.
 
 ## 📚 Education
 
@@ -21,22 +21,28 @@ Hello there! I'm **chaoyuhao**, a junior Computer Science and Technology major a
 - **[OpenJiuxiang]()** : The CPU of team `我造CPU，真的假的？`, which has won the 2nd prize in Loongson Competition 2024 final.
 - **[MMVPR]()** : Our fine tuned and fusion model, which has won the 1st prize in ICPR'24 MMVPR workshop competition.
 
+## Big Projects
+
+- **[AnomalyR1]()** A few shot RL for MLLM in IAD domain tasks.
+- **[Self Tool Synthesis System]()** : I designed this system when I was an AI engineer intern in Huawei Inc.
+- **[OSWorld-XXX]()** : My future work from Bytedance DMC. To be continue!
+
 <!-- ## 📝 Blog
 
-- [My Tech Blog](#) - Sharing my learnings and technical insights
+- [My Tech Blog](cyh13.fun) - Sharing my learnings and technical insights
 
 ## 🤝 Community Involvement
 
 - **[GitHub](https://github.com/chaoyuhao)** - My GitHub homepage
-- **[GitLab](#)** - My GitLab homepage
-- **[Stack Overflow](#)** - Helping others solve problems -->
 
 ## 📧 Contact
 
 - **Email**: [221240013@smail.nju.edu.cn](mailto:221240013@smail.nju.edu.cn)
+- **Email(temp)** [chaoyuhao@bytedance.com](mailto:chaoyuhao@bytedance.com)
 
 ---
 
 🌐 **Explore Open Source, Create the Future Together** 🌐
 
 Feel free to reach out and let's grow together in the world of open source!
+
