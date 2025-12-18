@@ -6,10 +6,10 @@ Hello there! I'm **chaoyuhao**, a senior Computer Science and Technology major a
 
 - **Nanjing University** - Computer Science and Technology (2022 - )
 
-<!-- ## 💻 Tech Stack
+## 💻 Tech Stack
 
-- **Programming Languages**: Python, Java, C/C++, Verilog
-- **Tools**: Git -->
+- **Programming Languages**: Python, C/C++, Java, Verilog
+- **Embracing AI**: I am very familiar with ChatGPT, Claude, Gemini, Grok, Seed, Deepseek, Qwen. 
 
 ## 🚀 Small Projects
 
@@ -24,10 +24,10 @@ Hello there! I'm **chaoyuhao**, a senior Computer Science and Technology major a
 ## Big Projects
 
 - **[AnomalyR1]()** A few shot RL for MLLM in IAD domain tasks.
-- **[Self Tool Synthesis System]()** : I designed this system when I was an AI engineer intern in Huawei Inc.
+- **[Self Tool Synthesis System]()** : I designed this system when I was an AI algorithm intern in Huawei.
 - **[OSWorld-XXX]()** : My future work from Bytedance DMC. To be continue!
 
-<!-- ## 📝 Blog
+## 📝 Blog
 
 - [My Tech Blog](cyh13.fun) - Sharing my learnings and technical insights
 
@@ -45,4 +45,5 @@ Hello there! I'm **chaoyuhao**, a senior Computer Science and Technology major a
 🌐 **Explore Open Source, Create the Future Together** 🌐
 
 Feel free to reach out and let's grow together in the world of open source!
+
 
