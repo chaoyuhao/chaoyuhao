@@ -4,12 +4,15 @@ Hello there! I'm **chaoyuhao**, a computer science PhD candidate at **Fudan Univ
 
 ## 📚 Education
 
-- **Nanjing University** - Computer Science and Technology (2022 - )
+- **Nanjing University** - Computer Science and Technology (2022 - 2026) **bachelor degree**
+- **Huawei** - AI Engineer Intern (2025.6 - 2025.9)
+- **ByteDance** - MLLM Algorithm Intern (2025.9 - 2026.2)
+- **Fudan University & Shanghai Innovation Institute** - Computer Science and Technology (2026 - ) **PhD candidate**
 
 ## 💻 Tech Stack
 
 - **Programming Languages**: Python, C/C++, Java, Verilog
-- **Embracing AI**: I am very familiar with ChatGPT, Claude, Gemini, Grok, Seed, Deepseek, Qwen. 
+- **Token hog**: Proficient in using ChatGPT, Claude, Gemini, Grok, Seed, Deepseek, Qwen, Kimi, GLM, Minimax.
 
 ## 🚀 Small Projects
 
@@ -38,7 +41,6 @@ Hello there! I'm **chaoyuhao**, a computer science PhD candidate at **Fudan Univ
 ## 📧 Contact
 
 - **Email**: [221240013@smail.nju.edu.cn](mailto:221240013@smail.nju.edu.cn)
-- **Email(temp)** [chaoyuhao@bytedance.com](mailto:chaoyuhao@bytedance.com)
 
 ---
 
