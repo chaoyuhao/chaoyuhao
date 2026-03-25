@@ -1,6 +1,6 @@
 # 🌟 Chaoyuhao's GitHub Profile 🌟
 
-Hello there! I'm **chaoyuhao**, a senior Computer Science and Technology major at **Nanjing University**! 🎓 Passionate about multi-modal large language model & embodied AI, I'm actively exploring the open-source community. 🌐 Welcome to my GitHub profile, where you'll find some of my projects and learning notes.
+Hello there! I'm **chaoyuhao**, a computer science PhD candidate at **Fudan University & Shanghai Innovation Institute**! 🎓 Passionate about multi-modal large language model & embodied AI, I'm actively exploring the open-source community. 🌐 Welcome to my GitHub profile, where you'll find some of my projects and learning notes.
 
 ## 📚 Education
 
@@ -14,7 +14,7 @@ Hello there! I'm **chaoyuhao**, a senior Computer Science and Technology major a
 ## 🚀 Small Projects
 
 - **[Sudoku]()** : A project containing an interesting algorithm which is strongly recommended by Daoxu Chen (Designer of ProblemSolving course in NJU)
-- **[ICSPA2023]()** : Using software to simulate risc-v CPU and link it to abstract-machine and nan-os.
+- **[ICS-PA2023]()** : Using software to simulate risc-v CPU and link it to abstract-machine and nan-os.
 - **[OS2024]()** : Operating abstract-machine on multi threads.
 - **[SCA$^3$]()** : Using Actor-critic algorithm to rearrange the placement of chargers to enhence the robustness of the network.
 - **[TrafficAnalysis]()** A YOLOv11x model with transfer learning on our own datasets. It can precisely count the number of cars in the photo of a traffic camera.
@@ -23,9 +23,9 @@ Hello there! I'm **chaoyuhao**, a senior Computer Science and Technology major a
 
 ## Big Projects
 
-- **[AnomalyR1]()** A few shot RL for MLLM in IAD domain tasks.
+- **[AnomalyR1]()** A quick and simple approach to empower MLLM for IAD domain tasks through reinforcement learning.
 - **[Self Tool Synthesis System]()** : I designed this system when I was an AI algorithm intern in Huawei.
-- **[OSWorld-XXX]()** : My future work from Bytedance DMC. To be continue!
+- **[GUI-Diver]()** : An interactive online reinforcement learning system for GUI-agent training. (intern in ByteDance)
 
 ## 📝 Blog
 
