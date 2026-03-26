@@ -4,10 +4,10 @@ Hello there! I'm **chaoyuhao**, a computer science PhD candidate at **Fudan Univ
 
 ## 📚 Education
 
-- **Nanjing University** - Computer Science and Technology (2022 - 2026) **bachelor degree**
+- **Nanjing University** - Computer Science and Technology (2022 - 2026)
 - **Huawei** - AI Engineer Intern (2025.6 - 2025.9)
 - **ByteDance** - MLLM Algorithm Intern (2025.9 - 2026.2)
-- **Fudan University & Shanghai Innovation Institute** - Computer Science and Technology (2026 - ) **PhD candidate**
+- **Fudan University & Shanghai Innovation Institute** - Computer Science and Technology (2026 - )
 
 ## 💻 Tech Stack
 
