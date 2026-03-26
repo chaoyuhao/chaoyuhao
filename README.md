@@ -1,6 +1,6 @@
 # 🌟 Chaoyuhao's GitHub Profile 🌟
 
-Hello there! I'm **chaoyuhao**, a computer science PhD candidate at **Fudan University & Shanghai Innovation Institute**! 🎓 Passionate about multi-modal large language model & embodied AI, I'm actively exploring the open-source community. 🌐 Welcome to my GitHub profile, where you'll find some of my projects and learning notes.
+Hello there! I'm **chaoyuhao**, a computer science PhD student at **Fudan University & Shanghai Innovation Institute**! 🎓 Passionate about multi-modal large language model & embodied AI, I'm actively exploring the open-source community. 🌐 Welcome to my GitHub profile, where you'll find some of my projects and learning notes.
 
 ## 📚 Education
 
