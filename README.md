@@ -40,7 +40,7 @@ Hello there! I'm **chaoyuhao**, a computer science PhD student at **Fudan Univer
 
 ## 📧 Contact
 
-- **Email**: [221240013@smail.nju.edu.cn](mailto:221240013@smail.nju.edu.cn)
+- **Email**: [chaoyuhao@smail.nju.edu.cn](mailto:chaoyuhao@smail.nju.edu.cn)
 
 ---
 
